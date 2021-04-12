@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khushmehn
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on my Youtube Channel
+- 💞️ I’m looking to collaborate on my Youtube Channel CODE MADE EASY
 - 📫 How to reach me mehndirattakhush007@gmail.com
 
 <!---
